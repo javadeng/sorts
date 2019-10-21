@@ -24,3 +24,9 @@ hs_err_pid*
 
 # iml 文件
 *.iml
+
+# idea文件
+.idea/
+
+# out输出目录
+out/
